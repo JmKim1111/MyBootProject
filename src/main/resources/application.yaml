@@ -1,0 +1,9 @@
+naver:
+  url:
+    search:
+      local : https://openapi.naver.com/v1/search/local.json
+      image : https://openapi.naver.com/v1/search/image
+  client :
+    id : OzQh0zRTcXYeva52_sd3
+    sercret: S9KhwDrKSf
+    #시크릿이 노출될 경우에 보안을 위하여 재발급 할것을 권고함
